@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "webpack" : "webpack",
+    "webpack": "webpack",
     "start": "webpack-dev-server --inline"
   },
   "keywords": [],
@@ -17,7 +17,7 @@
     "babel-preset-react": "^6.24.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "redux": "^3.5.2",
+    "redux": "^3.6.0",
     "webpack": "^2.5.1",
     "webpack-dev-server": "^2.4.5"
   },
