@@ -15,12 +15,9 @@ class Rainbow extends React.Component {
     return (
       <div>
         <h1>Rainbow Router!</h1>
-        <NavLink to='/red' >Red</NavLink>
-        <NavLink to='/red/orange' >Orange</NavLink>
-        <NavLink to='/red/yellow' >Yellow</NavLink>
+        <NavLink exact to='/red' >Red</NavLink>
         <NavLink to='/green' >Green</NavLink>
-        <NavLink to='/blue' >Blue</NavLink>
-        <NavLink to='/blue/indigo' >Indigo</NavLink>
+        <NavLink exact to='/blue' >Blue</NavLink>
         <NavLink to='/violet' >Violet</NavLink>
 
         <div id="rainbow">
