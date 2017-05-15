@@ -60,19 +60,6 @@ header #logo {
   margin: 10px;
 }
 
-/*.nav-bar {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
-}
-
-.nav-bar a, p {
-  font: 20px "Gotham_SSm_3r",Helvetica,Arial,sans-serif;
-  color: white;
-}*/
-
 .body-content {
   display: flex;
   flex-direction: row;
